@@ -5,4 +5,5 @@ Step 1- Downloaded [Composer](https://getcomposer.org/doc/00-intro.md)
 
 Step 2- Installed the [CakePHP Application Skeleton](https://github.com/cakephp/app) via Composer.
 
+Step 3- pushed the code to this remote repo
 more to come soon....
