@@ -11,6 +11,9 @@ Step 4- followed [Heroku's 'Deploy the app'](https://devcenter.heroku.com/articl
 
 Step 5- Connected the github repo to the Heroku app using [This](https://devcenter.heroku.com/articles/github-integration).
 
-Step 6-Swtched on 'Automatic deploys' from Heroku.
+Step 6-Swtched on 'Automatic deploys' from Heroku.Any commits pushed to remote repo now automatically trigger deployment of the app on Heroku.
 
+
+
+In the process of solving the "Class 'DebugKit\ToolbarService' not found error in the app".
 more to come soon....
