@@ -7,7 +7,7 @@ Step 2- Installed the [CakePHP Application Skeleton](https://github.com/cakephp/
 
 Step 3- pushed the code to this remote repo
 
-Step 4- followed [Heroku's 'Deploy the app'](https://devcenter.heroku.com/articles/getting-started-with-php#deploy-the-app) to deploy the app to [Here](https://heroku-cakephp-integration.herokuapp.com/).
+Step 4- followed [Heroku's 'Deploy the app'](https://devcenter.heroku.com/articles/getting-started-with-php#deploy-the-app) to deploy the app to [Here](https://heroku-cakephp-integration.herokuapp.com/)(under progress).
 
 Step 5- Connected the github repo to the Heroku app using [This](https://devcenter.heroku.com/articles/github-integration).
 
